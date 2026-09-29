@@ -64,9 +64,9 @@ Même échelle, de 0 à 3.
 
 ## 6. Points forts et points faibles
 - **Mes 3 points forts :**
-  1. Réflechi
-  2. Apprend très vite
-  3. A l'écoute
+  1. Dev
+  2. Devops
+  3. Apprend vite
 - **Ce sur quoi je suis moins à l'aise :**
   1. Je ne connais pas extrêmement bien le sujet.
   2. Je n'ai pas souvent travaillé sur des projets à autant de personnes dessus.
