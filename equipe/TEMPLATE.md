@@ -10,7 +10,7 @@
 - **Contact préféré (Discord, téléphone) :**
 - **Déjà fait un hackathon ?** oui / non (si oui, lequel et quel rôle)
 - **Rôle au sein de mon entreprise :**
-- **IA posséder (ex: claude/gemini/gpt...) :**
+- **IA posséder en ABONNEMENT PAS GRATUIT (ex: claude/gemini/gpt...) :**
 - **Matériel (Mac book pro M3 32gm ram, Asus i7, rtx3070...) :**
 
 ## 2. Disponibilités jusqu'au dépôt (samedi 3 octobre)
@@ -23,8 +23,6 @@ Mets une croix là où tu peux travailler au moins 2 heures.
 | Jeu 01/10 | | | |
 | Ven 02/10 | | | |
 | Sam 03/10 | | | |
-
-Contraintes connues (rendus Epitech, travail, etc.) :
 
 ## 3. Compétences techniques
 Échelle : **0** jamais fait · **1** notions, j'ai suivi un tuto · **2** je l'ai utilisé dans un projet · **3** je suis à l'aise, je peux aider les autres
