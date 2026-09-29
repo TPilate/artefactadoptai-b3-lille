@@ -9,6 +9,9 @@
 - **Pseudo GitHub :**
 - **Contact préféré (Discord, téléphone) :**
 - **Déjà fait un hackathon ?** oui / non (si oui, lequel et quel rôle)
+- **Rôle au sein de mon entreprise :**
+- **IA posséder (ex: claude/gemini/gpt...) :**
+- **Matériel (Mac book pro M3 32gm ram, Asus i7, rtx3070...) :**
 
 ## 2. Disponibilités jusqu'au dépôt (samedi 3 octobre)
 Mets une croix là où tu peux travailler au moins 2 heures.
@@ -41,6 +44,7 @@ Contraintes connues (rendus Epitech, travail, etc.) :
 | DevOps (Docker, déploiement) | | |
 | Vision / audio (deepfakes) | | |
 | Git en équipe (branches, PR, conflits) | | |
+| IA - LLM (vibe code, quel niveau d'utilisation, est-ce que tu sais ce que c'est un skill...) | | |
 
 Autre compétence technique utile :
 
