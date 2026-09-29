@@ -74,6 +74,7 @@ Même échelle, de 0 à 3.
 
 ## 7. Rôles
 Rôles possibles : Capitaine · Rédaction + pitch · Analyste menace / veille · Lead data · Graphes / réseaux · NLP / IA · Front / dataviz
+(liste de role non exhaustive ce sont plus des exemples noté ce qu'il vous viens à l'esprit)
 
 - **Mon 1er choix :**
 - **Mon 2e choix :**
@@ -81,8 +82,5 @@ Rôles possibles : Capitaine · Rédaction + pitch · Analyste menace / veille �
 - **Ce que j'aimerais apprendre pendant le hackathon :**
 
 ## 8. Pour le dossier (CV)
-- **Mes 2 projets les plus pertinents pour ce défi** (titre, une ligne, lien) :
-  1.
-  2.
 - **CV à jour ?** oui / non → le déposer dans `dossier-phase1/cv/prenom-nom.pdf` avant jeudi 1er octobre
 - **Je suis inscrit sur Agorize et j'ai accepté le règlement :** oui / non
